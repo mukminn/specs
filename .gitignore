@@ -1,6 +1,0 @@
-# Rendered book
-book/
-
-node_modules/**
-/.idea
-.venv/
